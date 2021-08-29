@@ -1,0 +1,1 @@
+{"nome": "Ricardo Resende", "cpf": "342.403.3854-854", "endereco": "Av Augusta Diogo Ayala ", "inicio": "10/04/2021", "valor": 200.0, "aberto": 11, "vencimento": 10}
